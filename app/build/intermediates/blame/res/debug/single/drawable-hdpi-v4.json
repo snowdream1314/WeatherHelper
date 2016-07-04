@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\setting.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_dot.xml",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\icon_dot.xml"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sunny.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\sunny.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cloudy.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sunning.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\sunning.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mostly_cloudy.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\mostly_cloudy.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\drizzle2.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\drizzle2.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\update.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\update.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\update1.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\update1.png"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\border.xml",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\add.png",
+        "source": "C:\\Users\\CB-Ye\\my_workspace\\CoolWeather1\\app\\src\\main\\res\\drawable-hdpi\\add.png"
+    }
+]
